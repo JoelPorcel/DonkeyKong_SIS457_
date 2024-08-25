@@ -21,5 +21,17 @@ void APlataforma::Tick(float DeltaTime)
 
 void APlataforma::movimiento()
 {
+	if (moverse)
+	{
+		if (posicionActual.Y > posicionFinal.Y) posicionActual.Y -= incrementoY;
+		else moverse = false;
+	}
+	else
+	{
+		if (posicionActual.Y < posicionInicial.Y) posicionActual.Y += incrementoY;
+		else moverse = true;
+	}
+
+	SetActorLocation(posicionActual);
 	GEngine->AddOnScreenDebugMessage(-1, 15.f, FColor::Silver, FString::Printf(TEXT("Esta plataforma no se movera")));
 }
