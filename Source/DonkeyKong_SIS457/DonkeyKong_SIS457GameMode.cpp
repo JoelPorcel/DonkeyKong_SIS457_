@@ -99,7 +99,6 @@ void ADonkeyKong_SIS457GameMode::BeginPlay()
 
 	//Actor hija PlataformaResbaladiza con su metodo
 	plataforma_resb = GetWorld()->SpawnActor<APlataformaResbaladiza>(APlataformaResbaladiza::StaticClass(), FVector(1206.68f, -1460.0f, 550.0f), FRotator::ZeroRotator);
-	plataforma_resb->movimiento(); //metodo usado para mostrar el mensaje sera quitado mas adelante 
 
 	//Actor hija Escalera con sus metodos
 	escalera = GetWorld()->SpawnActor<AEscaleras>(AEscaleras::StaticClass(), FVector(1206.68f, -1460.0f, 550.0f), FRotator::ZeroRotator);

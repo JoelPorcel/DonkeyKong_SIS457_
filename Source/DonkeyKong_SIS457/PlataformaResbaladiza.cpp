@@ -18,8 +18,3 @@ void APlataformaResbaladiza::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 }
-
-void APlataformaResbaladiza::movimiento()
-{
-	GEngine->AddOnScreenDebugMessage(-1, 15.f, FColor::Green, FString::Printf(TEXT("Esta plataforma no se movera pero sera resbalosa")));
-}
