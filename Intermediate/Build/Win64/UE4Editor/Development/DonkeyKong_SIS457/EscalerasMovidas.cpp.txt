@@ -1,0 +1,7 @@
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457\Definitions.DonkeyKong_SIS457.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Source\DonkeyKong_SIS457\EscalerasMovidas.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Source\DonkeyKong_SIS457\Escaleras.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Source\DonkeyKong_SIS457\Obstaculo.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457\Obstaculo.generated.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457\Escaleras.generated.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457\EscalerasMovidas.generated.h
